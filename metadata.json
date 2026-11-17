@@ -1,0 +1,7 @@
+{
+  "name": "M.S Interior Decorator",
+  "description": "Bespoke interior design and execution led by Founder & CEO Manak Chand Suthar, creating beautiful and practical homes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
